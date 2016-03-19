@@ -1,2 +1,3 @@
-# vim-config
-My Vim Config is managed with [Vcsh](https://github.com/RichiH/vcsh). Yours should be too.
+My Dotfiles
+===========
+All my dotfiles are managed with [Vcsh](https://github.com/RichiH/vcsh). Yours should be too.
