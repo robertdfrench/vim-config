@@ -70,3 +70,4 @@ function! RenameFile()
   endif
 endfunction
 noremap <leader>n :call RenameFile()<cr>
+au BufNewFile,BufRead *.tpp set filetype=cpp
