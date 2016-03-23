@@ -2,3 +2,15 @@ https://github.com/vim-airline/vim-airline-themes
 https://github.com/vim-airline/vim-airline
 git://github.com/tpope/vim-sensible.git
 git://github.com/altercation/vim-colors-solarized.git
+https://github.com/kien/ctrlp.vim.git
+https://github.com/majutsushi/tagbar
+https://github.com/bling/vim-airline
+https://github.com/tpope/vim-bundler.git
+https://github.com/kchmck/vim-coffee-script.git
+https://github.com/altercation/vim-colors-solarized.git
+https://github.com/tpope/vim-dispatch.git
+https://github.com/tpope/vim-fugitive.git
+https://github.com/elzr/vim-json
+https://github.com/tpope/vim-rails.git
+https://github.com/tpope/vim-surround.git
+https://github.com/tpope/vim-unimpaired.git
